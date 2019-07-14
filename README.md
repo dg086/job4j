@@ -4,3 +4,5 @@
 хорошо
 https://github.com/dg086/job4j.git
 хочу закончить в этом году
+
+git@github.com:dg086/job4j.git
